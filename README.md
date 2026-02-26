@@ -13,7 +13,6 @@ I am consistently learning and implementing concepts step-by-step to build stron
 
 - 🎓 B.Tech CSE Student (Semester V)
 - 📚 Currently Learning: Data Science & Machine Learning
-- 💡 Following: Krish Naik's Data Science Course
 - 🎯 Goal: Become a Data Scientist / ML Engineer
 
 ---
